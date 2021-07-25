@@ -1,10 +1,10 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import {Link} from 'react-router-dom';
 
 const Nav = () => (
-  <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+  <nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
     <Link className="navbar-brand" to="/">
-      ZooYork Times
+      The NewNew Times
     </Link>
     <button
       className="navbar-toggler"
@@ -13,9 +13,8 @@ const Nav = () => (
       data-target="#navbarNav"
       aria-controls="navbarNav"
       aria-expanded="false"
-      aria-label="Toggle navigation"
-    >
-      <span className="navbar-toggler-icon" />
+      aria-label="Toggle navigation">
+      <span className="navbar-toggler-icon"/>
     </button>
     <div className="collapse navbar-collapse" id="navbarNav">
       <ul className="navbar-nav">
