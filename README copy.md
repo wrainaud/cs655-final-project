@@ -1,10 +1,7 @@
-# cs655-final-project
-Repository for CS655 Final Project; NYT MERN Scraping App
-
 # ZooYorkTimes Scraper :newspaper::apple::statue_of_liberty:
 A `NodeJS`, `MongoDB`, `Express`, and `ReactJS` application where users can query, display, and save articles from the [New York Times Article Search API](http://developer.nytimes.com/). Users can remove saved articles as well.
 
-**Live Demo**: https://zooyorktimes-scraper.herokuapp.com/ (NEEDS TO BE UPDATED!)
+**Live Demo**: https://zooyorktimes-scraper.herokuapp.com/
 
 <img src="images/screenshot.png" alt="ZooYorkTimes-Scraper Screenshot" align="center" />
 
@@ -57,19 +54,19 @@ Also `npm3` is required to install dependencies properly.
 Support
 -------
 
-Please [open an issue](https://github.com/wrainaud/cs655-final-project/new) for support.
+Please [open an issue](https://github.com/wrainaud/ZooYorkTimes-Scraper/new) for support.
 
 Contributing
 -------
 
-Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/wrainaud/cs655-final-project/compare/).
+Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/wrainaud/ZooYorkTimes-Scraper/compare/).
 
 License
 -------
 
 The MIT License (MIT)
 
-Copyright (c) 2021 William J. Rainaud
+Copyright (c) 2017-2021 William J. Rainaud
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
